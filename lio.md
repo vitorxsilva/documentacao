@@ -32,3 +32,5 @@ Ambas contam com a Cielo Store, loja de aplicativos B2B disponível em todos as 
 
 # Arquitetura
 
+
+
