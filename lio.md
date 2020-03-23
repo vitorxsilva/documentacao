@@ -17,8 +17,10 @@ Atualmente a Cielo LIO está disponível em 2 modelos: LIO V2 e LIO +
 
 A Cielo LIO V2 é o modelo da LIO que dispoe do recurso de impressão, o cliente poderá ter a 1ª e 2ª via impressa após o pagamento realizado. Além disso, as aplicações parceiras poderão utilizar os métodos disponíveis da impressora para imprimir dados importantes ou necessários para o negócio do cliente.
 
-Especificação da Bobina:
+**Especificação da Bobina:**
 Papel Azul 48 gramas, Comprimento: 12 metros, Diâmetro máximo: 30 milímetros, Largura: 57 milímetros.
+
+**NFC**: Tecnologia presente permitindo o pagamento utilizando cartões com tecnologia contactless.
 
 ### Cielo LIO+
 
