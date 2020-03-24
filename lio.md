@@ -46,7 +46,10 @@ A Cielo disponibiliza um SDK com base na Cielo LIO Order Manager API que permite
  #### Integração Remota | Cielo LIO Order Manager
 
 Conjunto de APIs que permitem que o cliente continue utilizando sua solução de PDV / Automação Comercial com todas as funcionalidades. No momento de realizar o pagamento, ocorre a integração com o gerenciador de pedidos (Order Manager) da Cielo LIO, de forma rápida, simples e segura.
- [Ir para integração remota](https://developercielo.github.io/manual/cielo-lio#integração-remota)
+
+[![Vídeo Demo](https://img.youtube.com/vi/d7y-x6p36YU/0.jpg)](https://www.youtube.com/watch?v=d7y-x6p36YU)
+
+Clique na imagem acima, para acessar o vídeo
 
 
 
