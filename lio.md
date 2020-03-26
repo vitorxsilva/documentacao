@@ -52,18 +52,6 @@ Conjunto de APIs que permitem que o cliente continue utilizando sua solução de
 
 Clique na imagem acima, para acessar o vídeo
 
-### Serviços periféricos
-
-A Cielo LIO também se integra com os seguintes periféricos de hardware:
-
-**Impressoras Bluetooth**
-
-É possível conectar a Cielo LIO com impressoras bluetooth para realizar a impressão de recibos e outras informações importantes.
-
-Já existem parceiros que estão utilizando impressoras Bluetooth das marcas Zebra, Datex, Leopardo integradas com a Cielo LIO.
-
-Todos os protocolos de comunicação e pareamento ficam sob responsabilidade do aplicativo do parceiro.
-
 ## Especificações técnicas do hardware da Cielo LIO
 
 A plataforma Cielo LIO teve seu sistema operacional próprio baseado em Android.
@@ -97,4 +85,36 @@ Confira abaixo a tabela com as especificações técnicas da Cielo LIO:
 | Largura              | 84mm                                        | 81mm                                        | 75mm             |
 | Comprimento          | 168mm                                       | 228mm                                       | 158mm            |
 
+### Serviços periféricos
 
+A Cielo LIO também se integra com os seguintes periféricos de hardware:
+
+**Impressoras Bluetooth**
+
+É possível conectar a Cielo LIO com impressoras bluetooth para realizar a impressão de recibos e outras informações importantes.
+
+Já existem parceiros que estão utilizando impressoras Bluetooth das marcas Zebra, Datex, Leopardo integradas com a Cielo LIO.
+
+Todos os protocolos de comunicação e pareamento ficam sob responsabilidade do aplicativo do parceiro.
+
+### Rotação de tela na Cielo LIO
+
+As rotações na tela de exibição possuem comportamento diferente entre as versões da Cielo LIO.
+
+Na LIO V1 a orientação da tela é travada.
+
+Na LIO V2 é possível controlar a orientação da tela. Por padrão, a orientação da tela exibida é livre e definida de acordo com o acelerômetro do equipamento.
+
+Caso o desenvolvedor deseje controlar e usar de forma personalizada a orientação de tela da Cielo LIO, este deverá utilizar de acordo com a documentação do Android.
+
+[Documentação Oficial do Android](https://developer.android.com/guide/topics/manifest/activity-element.html)
+
+Acesse o item: android:screenOrientation para obter maiores informações.
+
+### Dados Móveis na Cielo LIO
+
+A Cielo LIO já vem configurada com um SIM Card. A operadora do SIM Card é definida de acordo com o endereço de cadastro do estabelecimento comercial.
+
+A Cielo envia o SIM Card da melhor operadora de acordo com o endereço de cadastro da LIO solicitada.
+
+Esse SIM Card permite a conexão com a tecnologia 3G da Cielo LIO e possui um pacote de dados ilimitado.
