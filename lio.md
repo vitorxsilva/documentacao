@@ -39,6 +39,7 @@ Existem 2 modelos de Integração com a Cielo LIO:
 #### Integração Local | Cielo LIO Order Manager SDK
 
 A Cielo disponibiliza um SDK com base na Cielo LIO Order Manager API que permite ao desenvolvedor e parceiro Cielo LIO integrar em sua aplicação as funcionalidades da Cielo LIO.
+
 [![Vídeo Demo](https://img.youtube.com/vi/d7y-x6p36YU/0.jpg)](https://www.youtube.com/watch?v=d7y-x6p36YU)
  
  Clique na imagem acima, para acessar o vídeo
